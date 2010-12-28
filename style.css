@@ -108,3 +108,32 @@ div.tweet0 {
 	margin:20px auto;
 	font-weight:bold;
 }
+#creds{
+width: 50%;
+}
+
+.names{
+font-family:'Nobile', Arial, Helvetica;
+font-size:12px;
+margin-left:15px;
+float:left;
+}
+
+a:link, a:visited{
+color:#000000;
+opacity:0.5;
+text-decoration:none;
+}
+
+a:hover, a:active{
+opacity:1;
+}
+
+.roles {
+  opacity: 0.5;
+  margin-left:15px;
+}
+
+.highlighted {
+ opacity:1;
+}
